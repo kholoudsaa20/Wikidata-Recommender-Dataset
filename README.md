@@ -17,4 +17,4 @@ a second one focusing on the contributions of more than 11, 000 more active
 editors. We perform an offline evaluation of the system on both datasets with
 promising results.
 
-The code and datasets hosted in this repo have been created for the the paper Learning to Recommend Items to Wikidata Editors, submitted for publication at the 18th European Semantic Web Conference (ESWC 2021). 
+The code and datasets hosted in this repo have been created for the the paper "Learning to Recommend Items to Wikidata Editors", submitted for publication at the 18th European Semantic Web Conference (ESWC 2021). 
